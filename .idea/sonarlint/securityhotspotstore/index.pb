@@ -13,3 +13,7 @@ P
  contracts/material-sourcing.clar,1/5/1514261f7555995c78b00fd74cc22398afe89264
 O
 tests/material-sourcing.test.ts,2/a/2a3f8d67c3857a56232ccc4c85a1c96d44c67ac8
+V
+&contracts/processing-verification.clar,7/6/767eadaab388eadb17b08076687f72210529c9c7
+U
+%tests/processing-verification.test.ts,2/8/28e3307a1160847461ccf637660520fa43425af8
