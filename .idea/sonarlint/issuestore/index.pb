@@ -9,3 +9,7 @@ T
 $contracts/consumer-verification.clar,9/5/95d874116380ad8cd3e09c3fb49cd296159312a9
 S
 #tests/consumer-verification.test.ts,b/a/badbd160fcaa76a7a2622bb19b5e507280025745
+P
+ contracts/material-sourcing.clar,1/5/1514261f7555995c78b00fd74cc22398afe89264
+O
+tests/material-sourcing.test.ts,2/a/2a3f8d67c3857a56232ccc4c85a1c96d44c67ac8
