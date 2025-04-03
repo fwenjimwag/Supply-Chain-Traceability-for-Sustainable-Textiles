@@ -1,0 +1,34 @@
+[project]
+name = 'Supply-Chain-Traceability-for-Sustainable-Textiles'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.certification]
+path = 'contracts/certification.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.consumer-verification]
+path = 'contracts/consumer-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.material-sourcing]
+path = 'contracts/material-sourcing.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.processing-verification]
+path = 'contracts/processing-verification.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
